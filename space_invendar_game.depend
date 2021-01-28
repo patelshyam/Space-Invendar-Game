@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1491038992 source:c:\users\shyam\desktop\space_invendar_game\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+
