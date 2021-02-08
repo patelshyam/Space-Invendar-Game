@@ -1,18 +1,3 @@
-# Space-Invendar-Game
-- Space Invendar Console game made in C language
-
-# Starting Page
-![Screenshot (290)](https://user-images.githubusercontent.com/26683455/106179723-70900080-61c1-11eb-9839-ac1c250c8eb6.png)
-
-# Loading Page
-![Screenshot (291)](https://user-images.githubusercontent.com/26683455/106179763-7d145900-61c1-11eb-93be-db2191b95085.png)
-
-# Game Home Page
-![Screenshot (292)](https://user-images.githubusercontent.com/26683455/106179801-8c93a200-61c1-11eb-8fa8-685540df6975.png)
-
-# Press M to fire and  use W & D to move
-![Screenshot (299)](https://user-images.githubusercontent.com/26683455/106179900-a634e980-61c1-11eb-970d-f31b902c3c52.png)
-
 # Space-Invender-Game
 
 ![Screenshot (288)](https://user-images.githubusercontent.com/26683455/106179900-a634e980-61c1-11eb-970d-f31b902c3c52.png)
@@ -20,8 +5,13 @@
 > Space Invender Game with ony ASCII chacters. Represents 'M' as weak Brick, 'O' as Strong Brick, A tank and Ammo. 
 
 ---
-
-
+## Table of content
+- [Space-Invender-Game](#space-invender-game)
+  * [Description](#description)
+  * [How To Use](#how-to-use)
+  * [License](#license)
+  * [Author Info](#author-info)
+--- 
 
 ## Description
 At bachelor's level, this was my first code. I had a 'C Language' subject in the first semester. There professor gives the task at that time I designed this game to make a console-based app 
@@ -32,19 +22,19 @@ Controls of the game
 
 #### Technologies
 
-- C
+- C Language
 
-[Back To The Top](#access-to-mysql-converter)
+[Back To The Top](#space-invender-game)
 
 ---
 
 ## How To Use
 
 #### Installation
-If you just want to play and check the game then there is an exe file present. Just download it and play with it.
-If you want to access the code and want to modify that then you can pull the repository and use the codeblocks(you can also use other) for modifying the code.
+If you just want to play the game and check it, there's an exe file. Simply download and play with it.
+You can pull the repository and use codeblocks (you can also use others) to change the code if you want to access the code and want to modify it.
 
-[Back To The Top](#access-to-mysql-converter)
+[Back To The Top](#space-invender-game)
 
 ---
 
@@ -73,7 +63,7 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
-[Back To The Top](#access-to-mysql-converter)
+[Back To The Top](#space-invender-game)
 
 ---
 
@@ -82,5 +72,5 @@ SOFTWARE.
 - Hacker Rank Profile- [@LosPapes](https://www.hackerrank.com/LosPepes)
 - LinkedIn profile- [@Shyam Patel](https://www.linkedin.com/in/patelshyam54/)
 
-[Back To The Top](#access-to-mysql-converter)
+[Back To The Top](#space-invender-game)
 
