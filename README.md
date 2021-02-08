@@ -15,7 +15,8 @@
 
 ## Description
 At bachelor's level, this was my first code. I had a 'C Language' subject in the first semester. There professor gives the task at that time I designed this game to make a console-based app 
-Controls of the game
+
+####Controls of the game
 - A for 'Moving Tank Left'
 - D for 'Moving Tank Right'
 - M for 'Fire the ammo'
